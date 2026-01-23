@@ -9,8 +9,8 @@ Then your program should display:
 - Discount because it is a day old
 - Total price    
 
-Each of these amounts should be displayed on its own line with an appropriate label. 
-All the values should be displayed using two decimal places, 
+Ech of these amounts should be displayed on its own line with an appropriate label. 
+All the values shoulda be displayed using two decimal places, 
 and the decimal points in all the numbers should be aligned when reasonable values are entered by the user.
 
 Example:   
